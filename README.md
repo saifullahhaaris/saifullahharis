@@ -2,9 +2,9 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am currently pursuing my bachelor's degree in Software Engineering from the University of Westminster, through the Informatics Institute of Technology campus.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON / JAVA / JAVASCRIPT / HTML / CSS / REACT
 
 - 🔭 I’m currently working on IDEAL IT SOLUTIONS (PVT) LTD 
 
