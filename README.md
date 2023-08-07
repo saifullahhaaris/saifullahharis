@@ -14,8 +14,8 @@
 
 🎯 Check out my projects and accomplishments. Feel free to reach out if you have any questions or exciting opportunities to collaborate!
 
-Happy coding! 🚀
-
 📧 Contact me through saifullahharis297@gmail.com
 
-🔗 Connect with me on social media [LinkedIn](https://www.linkedin.com/in/saifullah297/) | [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/saifullah_297/)  
+🔗 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/saifullah297/) | [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/saifullah_297/)  
+
+Happy coding! 🚀
