@@ -4,12 +4,6 @@
 
 💻 Skills: Python | Java | JavaFX | HTML | CSS | JavaScript | Node.js | Django | Spring Boot | Bootstrap | React.js | Angular.js | Express.js | MongoDB | Git | GitHub
 
-😄 Pronouns: he/him
-
-📧 Contact: saifullahharis297@gmail.com
-
-🔗 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/saifullah297/)  [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL)  [Instagram](https://www.instagram.com/saifullah_297/)  
-
 🌱 Exploring the vast world of software development, I am on a journey to build impactful solutions and enhance my programming skills. From developing web applications to diving into data science projects, I enjoy tackling diverse challenges.
 
 🚀 My GitHub repositories showcase projects I've crafted with love and care. From Full Stack web apps to problem-solving algorithms, I am continuously learning and growing with each line of code.
@@ -21,3 +15,7 @@
 🎯 Check out my projects and accomplishments. Feel free to reach out if you have any questions or exciting opportunities to collaborate!
 
 Happy coding! 🚀
+
+📧 Contact me through saifullahharis297@gmail.com
+
+🔗 Connect with me on social media [LinkedIn](https://www.linkedin.com/in/saifullah297/) | [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/saifullah_297/)  
