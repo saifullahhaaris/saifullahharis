@@ -6,11 +6,9 @@
 
 😄 Pronouns: he/him
 
-📫 Contact: saifullahharis297@gmail.com
+📧 Contact: saifullahharis297@gmail.com
 
-Connect with me on social media:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifullah297/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saifullah_297/)  
+🔗 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/saifullah297/)  [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL)  [Instagram](https://www.instagram.com/saifullah_297/)  
 
 🌱 Exploring the vast world of software development, I am on a journey to build impactful solutions and enhance my programming skills. From developing web applications to diving into data science projects, I enjoy tackling diverse challenges.
 
@@ -18,7 +16,7 @@ Connect with me on social media:
 
 🔭 Passionate about open source and community contributions, I believe in the power of collaboration and knowledge sharing. Let's connect and make a difference in the tech world together!
 
-🌟 you can visit my w3school profile [too](https://my-learning.w3schools.com/)
+🌟 you can visit my [w3school](https://my-learning.w3schools.com/) profile too
 
 🎯 Check out my projects and accomplishments. Feel free to reach out if you have any questions or exciting opportunities to collaborate!
 
