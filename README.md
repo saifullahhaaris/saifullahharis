@@ -19,14 +19,5 @@
 Happy coding! 🚀
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/w3c.svg' alt='w3school' height='40'>](https://my-learning.w3schools.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifullah297/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saifullah_297/)  
 
-please go through my profiles
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saifullahharis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/w3c.svg' alt='w3school' height='40'>](https://my-learning.w3schools.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saifullah297/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saifullah_297/)  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifullahharis)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahharis)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifullahharis&show_icons=true)
