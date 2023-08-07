@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Saifullah
 I am currently pursuing my bachelor's degree in Software Engineering from the University of Westminster, through the Informatics Institute of Technology campus.
-Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
+Skills: PYTHON | JAVA | JAVAFX | HTML | CSS | JAVASCRIPT | NODE JS | DJANGO | SPRING BOOT | BOOTSTRAP | REACT JS |ANGULAR JS | EXPRESS JS | MONGO DB | GIT | GITHUB
 
-- 🔭 I’m currently working on IDEAL IT SOLUTIONS (PVT) LTD 
-- 📫 How to reach me: saifullahharis297@gmail.com 
 - 📫 You can reach me through saifullahharis297@gmail.com 
 - 😄 Pronouns: he/him 
 
