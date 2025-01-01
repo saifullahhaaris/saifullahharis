@@ -16,6 +16,6 @@
 
 📧 Contact me through saifullahharis297@gmail.com
 
-🔗 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/saifullah297/) | [Facebook](https://www.facebook.com/saifullah.haris.54?mibextid=ZbWKwL) | [Instagram](https://www.instagram.com/saifullah_297/)  
+🔗 Connect with me on social media: [LinkedIn](https://www.linkedin.com/in/saifullahhaaris) | [Facebook](https://www.facebook.com/saifullah.haaris) | [Instagram](https://www.instagram.com/saifullah.haaris)  
 
 Happy coding! 🚀
